@@ -75,7 +75,7 @@ section h2 {
 }
 
 .card img {
-    height: 350px;
+    height: 480px;
     object-fit: cover;
     border-radius: 5px 5px 0 0;
     box-sizing: border-box;
